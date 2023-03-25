@@ -1,1 +1,3 @@
-respuestas
+1)No se puede ver el archivo ya que tp2_1_2.c pertenece a la segunda branch 
+2) con el comando de gitk --all  se puede observar las dos ramas por separadas
+3) con el merge podemos observar que se unen las dos ramas
